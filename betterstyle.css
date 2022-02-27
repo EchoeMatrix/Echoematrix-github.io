@@ -1,0 +1,116 @@
+body {
+  background-image: url("pexels-photo-1072179.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+}
+
+.hey {
+	text-align: center;
+	color: black;
+	font-family: algerian;
+	border: 5px outset yellow;
+	text-shadow: 2px 2px 5px white;
+	background-image: url("social-media-management.png");
+	background-attachment: fixed;
+	
+}
+
+.mark {
+	font-family: algerian;
+	color: lightblue;
+	text-shadow: 2px 2px 5px black;
+	background: lightgrey;
+}
+
+.shoot {
+	font-family: algerian;
+	color: white;
+	border: 3px outset pink;
+	background-color: grey;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main {
+  border: 10px dashed black;
+  padding: 25px;
+  background: url(Paper-Texture-2.jpg) left top repeat, url(owl-on-tree-branch-clip-art-203481.jpg) left bottom no-repeat;
+  padding: 15px;
+  background-attachment: fixed;  
+  background-origin: content-box, content-box;
+  color: black;
+  font-family: algerian;
+}
+.what{
+  border: 10px dashed black;
+  padding: 25px;
+  background: url(Backgrounds_in_CSS.jpg);
+  padding: 15px;
+  background-attachment: fixed;  
+  background-origin: content-box, content-box;
+  color: white;
+  font-family: algerian;
+}
+span.let{
+  color:black;
+  font-family: Algerian;
+  text-align: center;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.fullbody{
+  padding: 16px;
+  margin-top: 30px;
+ }
+.example{
+  border: 15px dashed black;
+  padding: 30px;
+  background: url("OIP.jpg");
+  padding: 15px;
+  background-attachment: fixed;  
+  background-origin: content-box, content-box;
+  color: yellow;
+  text-shadow: 2px 2px 5px white;
+  font-family: algerian;
+}
+span.let{
+  size: cover;
+  padding: 15px 20px;
+}
+span.exampleexplained{
+	color: black;
+	text-shadow: 2px 2px 5px white;
+	background-image: url("Paper-Texture-2.jpg")
+}
+.footer{
+	color:black;
+	font-family:algerian;
+    text-align:center;
+    text-shadow:2px 2px 5px white;
+}   	
