@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+---
+permalink: /Way more Better.html
+---
+
 <html ng-app>
 <head>
 <meta name="title" content="Learn HTML Basics|Best webpage to learn HTML|HTML for beginners|Free">
